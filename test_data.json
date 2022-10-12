@@ -1,0 +1,24 @@
+{
+    "TestData": [
+        {
+            "countryName": "united-kingdom",
+            "countryLink": "bupa.co.uk"
+        },
+        {
+            "countryName": "australia",
+            "countryLink": "bupa.com.au"
+        },
+        {
+            "countryName": "new-zealand",
+            "countryLink": "bupa.co.nz"
+        },
+        {
+            "countryName": "mexico",
+            "countryLink": "bupasalud.com.mx"
+        },
+        {
+            "countryName": "chile",
+            "countryLink": "bupa.cl"
+        }
+    ]
+}
